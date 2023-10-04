@@ -1,0 +1,70 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : TMaze LED PCB.SLDASM
+Receiving System Product I.D.: TMaze LED PCB.SLDASM
+File Name                    : D:\My Documents\Projects\GitHub-TMaze\CAD-Files\TMaze-LED Mount\IGES\TMaze LED PCB.IGS
+Sending System               : SolidWorks 2015
+Preprocessor Version         : SolidWorks 2015
+File Creation Date           : 231004.114307
+Model Creation Date          : 231004.114307
+Units                        : MM
+Model Space Scale            : 1
+Author                       : jpmoszynski
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              11
+  Highest number of significant digits:                     13
+  Average number of significant digits:                6.80117
+  Maximum distance to origin:                          1735.05
+  Minimum distance to origin:                                2
+  Effective number of significant digits:               12.999
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            232       232
+102  Composite curve                                358       358
+110  Line                                          1053      1053
+116  Point                                            5         5
+120  Surface of revolution                           52        52
+124  Transformation matrix                          209       209
+126  Rational B-spline curve                        952       952
+128  Rational B-spline surface                      110       110
+142  Curve on a parametric surface                  179       179
+144  Trimmed parametric surface                     162       162
+308  Subfigure definition                             2         2
+314  Color definition                                 1         1
+402  Associativity instance                          31        31
+408  Singular subfigure instance                      2         2
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       3
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Wednesday, October 04, 2023 11:43:18
+Finish time: Wednesday, October 04, 2023 11:43:21
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
